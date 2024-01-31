@@ -40,6 +40,14 @@ Huawei Authorized Information and Network Academy, GIK.
 ### Experience 👨‍💻 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 
+*15.10.2023* - *29.02.2024* (in progress)  
+**WerkStudent (Master Thesis)**  
+Institut Dr. Foerster GmbH & Co. KG. 
+
+*02.05.2021* - *30.09.2023*  
+**Software Developer (intern)**  
+Bosch Engineering GmbH. 
+
 *10.03.2021* - *01.04.2022*  
 **Web Developer (Freelancer)**  
 Fiverr (Online Freelancing Platform).  
