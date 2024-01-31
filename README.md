@@ -38,7 +38,7 @@ Huawei Authorized Information and Network Academy, GIK.
   
 ------
 ### Experience 👨‍💻 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
+<img align="right" alt="Coding" width="500" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 
 *15.10.2023* - *29.02.2024* (in progress)  
 **WerkStudent (Master Thesis)**  
